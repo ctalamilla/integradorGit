@@ -6,11 +6,15 @@ let ventas = require("./ventas");
 
 
 console.log('Soy una aplicacion')
-console.log("===============")
+console.log("Esto es Domicilio")
 console.log(domicilio)
-console.log("===============")
+
+console.log("Estos son los Usuarios")
 console.log(usuario)
-console.log("===============")
-console.log(contactos)
+
 console.log("====Ventas=====")
 console.log(ventas)
+
+console.log("Estos son los contactos")
+console.log(contactos)
+
