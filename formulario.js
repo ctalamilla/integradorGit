@@ -1,0 +1,1 @@
+console.log('aca ira el formulario de la suscripcion del cleinte');
